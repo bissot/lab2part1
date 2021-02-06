@@ -9,3 +9,5 @@ spoon-knife fork : https://github.com/bissot/Spoon-Knife
 ![git game](/imgs/gitgame.png)
 
 pull-request fork : https://github.com/bissot/PullReq
+
+![git diff screen shot](/imgs/gitdiff.png)
