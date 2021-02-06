@@ -6,7 +6,7 @@ Lab2part1 repo:https://github.com/bissot/lab2part1
 
 spoon-knife fork : https://github.com/bissot/Spoon-Knife
 
-![git game](/imgs/gitgame.png)
+![git game](/imgs/git_game.png)
 
 pull-request fork : https://github.com/bissot/PullReq
 
