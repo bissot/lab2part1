@@ -11,3 +11,5 @@ spoon-knife fork : https://github.com/bissot/Spoon-Knife
 pull-request fork : https://github.com/bissot/PullReq
 
 ![git diff screen shot](/imgs/gitdiff.png)
+
+forked OSS project ideas repo : https://github.com/bissot/OSSProjectIdeas 
